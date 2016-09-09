@@ -1,0 +1,26 @@
+{
+  "name": "exit-intent",
+  "authors": [
+    "Amit <amit@opencubicles.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "almond": "^0.3.3",
+    "jQuery": "^3.1.0",
+    "rv": "requirejs-ractive#^0.1.8",
+    "ractive": "^0.7.3",
+    "text": "requirejs-text#^2.0.15",
+    "requirejs": "^2.3.1"
+  }
+}
